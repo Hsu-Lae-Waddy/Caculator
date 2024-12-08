@@ -1,4 +1,4 @@
 The calculator is very simple. That can change light mode and dark mode
 
-![Dark mode]("C:\Users\User\Downloads\asset\Dark.png")
-![light mode]("C:\Users\User\Downloads\asset\light.png")
+![Dark mode]("D:\My first projects\Calculator\asset\Dark.png")
+![light mode]("D:\My first projects\Calculator\asset\light.png")
